@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Company-Tripdhara%20Tour%20%26%20Travels-0052cc?style=for-the-badge&logo=compass&logoColor=white" alt="Tripdhara Tour & Travels" />
+  <a href="https://tripdhara.com" target="_blank"><img src="https://img.shields.io/badge/Website-tripdhara.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="tripdhara.com" /></a>
+  <a href="https://tripdhara.in" target="_blank"><img src="https://img.shields.io/badge/Portal-tripdhara.in-FF9933?style=for-the-badge&logo=google-chrome&logoColor=white" alt="tripdhara.in" /></a>
   <img src="https://img.shields.io/badge/Destinations-Himalayas%20%7C%20Uttarakhand%20%7C%20Himachal-138808?style=for-the-badge&logo=google-maps&logoColor=white" alt="Destinations" />
   <img src="https://img.shields.io/badge/Support-24%2F7%20On--Ground%20Assistance-FF9933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="24/7 Support" />
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge" alt="License: Proprietary" />
@@ -192,7 +193,15 @@ Whether you are a traveler yearning for the crisp mountain air, a local homestay
 ## 📞 Plan Your Journey / Contact Tripdhara
 
 <p align="center">
-  <a href="https://wa.me/918445763073?text=Hello%20Tripdhara!%20I%20would%20like%20to%20plan%20a%20trip." target="_blank">
+  <a href="https://tripdhara.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-tripdhara.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit tripdhara.com" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tripdhara.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portal-tripdhara.in-FF9933?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit tripdhara.in" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/917017288052?text=Hello%20Tripdhara!%20I%20would%20like%20to%20plan%20a%20trip." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Tripdhara" />
   </a>
   &nbsp;&nbsp;
@@ -200,15 +209,17 @@ Whether you are a traveler yearning for the crisp mountain air, a local homestay
     <img src="https://img.shields.io/badge/Email-Inquiries%20%26%20Bookings-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tripdhara" />
   </a>
   &nbsp;&nbsp;
-  <a href="tel:+918445763073">
+  <a href="tel:+917017288052">
     <img src="https://img.shields.io/badge/Call%20Us-24%2F7%20Helpline-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Call Tripdhara" />
   </a>
 </p>
 
 - 📍 **Headquarters:** Rishikesh / Dehradun, Uttarakhand, India
-- 🌐 **Website:** [tripdhara.com](https://tripdhara.com) *(Launching Soon)*
+- 🌐 **Official Websites:**
+  - 🌍 **Global Travel Portal:** [tripdhara.com](https://tripdhara.com)
+  - 🇮🇳 **India Domestic Portal:** [tripdhara.in](https://tripdhara.in)
 - ✉️ **Inquiries & Bookings:** `contact@tripdhara.com` / `info@tripdhara.com`
-- 💬 **WhatsApp Booking Support:** [+91 8445763073](https://wa.me/918445763073)
+- 💬 **WhatsApp Booking Support:** [+91 8445763073](https://wa.me/917017288052)
 
 ---
 
