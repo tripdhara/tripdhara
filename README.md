@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge" alt="License: Proprietary" />
 </p>
 
----
-
-# 🏔️ Tripdhara - The Ultimate Himalayan Travel Ecosystem
-
 Welcome to **Tripdhara**, a premier Himalayan **Tour and Travel Company** and digital ecosystem designed exclusively for the Himalayan travel landscape. Tripdhara is not just a booking platform; it is a movement aimed at bridging the gap between global explorers and the hidden gems of the Himalayas. By empowering local service providers—the unsung heroes of the mountains—and offering travelers an unparalleled, authentic, and secure experience, Tripdhara is redefining what it means to journey through the world's highest and most majestic mountain range.
 
 ## 🌄 The Allure of the Himalayas & The Birth of Tripdhara
