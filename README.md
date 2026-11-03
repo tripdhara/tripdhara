@@ -6,7 +6,7 @@
   <a href="https://tripdhara.com" target="_blank"><img src="https://img.shields.io/badge/Website-tripdhara.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="tripdhara.com" /></a>
   <a href="https://tripdhara.in" target="_blank"><img src="https://img.shields.io/badge/Portal-tripdhara.in-FF9933?style=for-the-badge&logo=google-chrome&logoColor=white" alt="tripdhara.in" /></a>
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge" alt="License: Proprietary" />
-  <img src="https://img.shields.io/badge/Destinations-Himalayas%20%7C%20Uttarakhand%20%7C%20Himachal%20%7C%20Ladakh%20%7C%20Sikkim%20%7C%20NE-138808?style=for-the-badge&logo=google-maps&logoColor=white" alt="Destinations" />
+  <img src="https://img.shields.io/badge/Destinations-Himalayas%20%7C%20Uttarakhand%20%7C%20Himachal%20%7C%20Ladakh%20%7C%20Sikkim%20%7C%20Leh%20%7C%20Kullu%20%7C%20Manali%20%7C%20Rishikesh%20%7C%20Joshimath%20%7C%20Auli%20%7C%20Chopta%20%7C%20Chanderkhani%20%7C%20Valley%20of%20Flowers%20%7C%20Kedarnaath-138808?style=for-the-badge&logo=google-maps&logoColor=white" alt="Destinations" />
   <img src="https://img.shields.io/badge/Support-24%2F7%20On--Ground%20Assistance-FF9933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="24/7 Support" />
   
 </p>
