@@ -219,7 +219,7 @@ Whether you are a traveler yearning for the crisp mountain air, a local homestay
   - 🌍 **Global Travel Portal:** [https://tripdhara.com](https://tripdhara.com)
   - 🇮🇳 **India Domestic Portal:** [https://tripdhara.in](https://tripdhara.in)
 - ✉️ **Inquiries & Bookings:** `contact@tripdhara.com` / `info@tripdhara.com`
-- 💬 **WhatsApp Booking Support:** [+91 8445763073](https://wa.me/917017288052)
+- 💬 **WhatsApp Booking Support:** [+91 7017288052](https://wa.me/917017288052)
 
 ---
 
