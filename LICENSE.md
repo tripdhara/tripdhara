@@ -1,5 +1,3 @@
-# PROPRIETARY AND INTELLECTUAL PROPERTY LICENSE
-
 ### Copyright © 2024-2026 Er. Mradul Sharma. All Rights Reserved.
 
 **Brand / Organization:** Tripdhara (Tripdhara Tour & Travels)  
