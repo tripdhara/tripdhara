@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.2.x-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19.2.x-blue?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-Atlas_9.x-green?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-v4.1-teal?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Company-Tripdhara%20Tour%20%26%20Travels-0052cc?style=for-the-badge&logo=compass&logoColor=white" alt="Tripdhara Tour & Travels" />
+  <img src="https://img.shields.io/badge/Destinations-Himalayas%20%7C%20Uttarakhand%20%7C%20Himachal-138808?style=for-the-badge&logo=google-maps&logoColor=white" alt="Destinations" />
+  <img src="https://img.shields.io/badge/Support-24%2F7%20On--Ground%20Assistance-FF9933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="24/7 Support" />
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge" alt="License: Proprietary" />
 </p>
 
@@ -14,7 +13,7 @@
 
 # 🏔️ Tripdhara - The Ultimate Himalayan Travel Ecosystem
 
-Welcome to **Tripdhara**, a revolutionary marketplace and digital ecosystem designed exclusively for the Himalayan travel landscape. Tripdhara is not just a booking platform; it is a movement aimed at bridging the gap between global explorers and the hidden gems of the Himalayas. By empowering local service providers—the unsung heroes of the mountains—and offering travelers an unparalleled, authentic, and secure experience, Tripdhara is redefining what it means to journey through the world's highest and most majestic mountain range.
+Welcome to **Tripdhara**, a premier Himalayan **Tour and Travel Company** and digital ecosystem designed exclusively for the Himalayan travel landscape. Tripdhara is not just a booking platform; it is a movement aimed at bridging the gap between global explorers and the hidden gems of the Himalayas. By empowering local service providers—the unsung heroes of the mountains—and offering travelers an unparalleled, authentic, and secure experience, Tripdhara is redefining what it means to journey through the world's highest and most majestic mountain range.
 
 ## 🌄 The Allure of the Himalayas & The Birth of Tripdhara
 
@@ -47,30 +46,78 @@ Our mission is multifaceted, reflecting the complex ecosystem we operate within:
 
 ---
 
-## ✨ Our Core Offerings
+## ✨ Our Core Services & Offerings
 
-Tripdhara is a comprehensive ecosystem that caters to every facet of the Himalayan experience. We understand that no two travelers are alike, and our diverse portfolio of offerings reflects the vast possibilities of the mountains.
+Tripdhara is a comprehensive Tour and Travel company that caters to every facet of the Himalayan experience. We understand that no two travelers are alike, and our diverse portfolio of 9 core services reflects the endless possibilities of the mountains:
 
-### 🏡 Homestays & Authentic Living
-Forget sterile hotel rooms. Tripdhara champions the authentic homestay experience. We connect travelers with local families living in traditional wooden Kath-Kuni houses in Himachal, stone-slate dwellings in Uttarakhand, and warm, welcoming homes across the Himalayan belt. 
+| # | Service | Category | Highlights & Popular Spots |
+| :-: | :--- | :--- | :--- |
+| 1 | 🏡 **[Homestay](#1--homestay-authentic-living)** | Cultural Immersion | Traditional wooden Kath-Kuni homes, organic meals & Pahadi hospitality |
+| 2 | 🏨 **[Hotel](#2--hotel-comfort--luxury-mountain-stays)** | Stays & Resorts | Handpicked budget, boutique, and luxury valley-view hotels & resorts |
+| 3 | ⛺ **[Camping](#3--camping-riverside--alpine-nights)** | Outdoor Adventure | Luxury riverside camps in Rishikesh, high-altitude alpine & dome tents |
+| 4 | 🚣 **[Rafting](#4--rafting-white-water-rapids)** | River Sports | World-class Ganga white-water rafting (Brahmpuri to Kaudiyala) |
+| 5 | 🥾 **[Trekking](#5--trekking--high-altitude-expeditions)** | Mountain Trails | Kedarkantha, Dayara Bugyal, Valley of Flowers, Har Ki Dun, Chopta |
+| 6 | 🪂 **[Bungee Jumping](#6--bungee-jumping--extreme-adventure)** | Extreme Sports | India's highest 83m bungee jump, giant swing & flying fox in Rishikesh |
+| 7 | 🛵 **[Bike / Scooter Rental](#7--bikescooter-rental-mountain-mobility)** | Road Trips | Royal Enfield Himalayan, Classic 350 & scooties with helmets & gear |
+| 8 | 🕉️ **[Chaardham Tour](#8--spiritual-journeys--the-sacred-chaardham-tour)** | Spiritual Pilgrimage | Yamunotri, Gangotri, Kedarnath & Badrinath (Road & Helicopter packages) |
+| 9 | 🧭 **[Custom Trip](#9--custom-trip-tailor-made-itineraries)** | Bespoke Travel | Tailor-made itineraries for families, honeymoons, corporate & student groups |
+
+---
+
+### 🏡 1. Homestay (Authentic Living)
+Forget sterile hotel rooms. Tripdhara champions the authentic homestay experience. We connect travelers with local families living in traditional wooden Kath-Kuni houses in Himachal, stone-slate dwellings in Uttarakhand, and warm, welcoming homes across the Himalayan belt.
 - **Cultural Immersion:** Experience the legendary Pahadi hospitality. Share meals made from locally sourced, organic ingredients, listen to ancient folklore by the warmth of a bukhari (traditional heater), and live life at the gentle pace of the mountains.
 - **Economic Impact:** By choosing a Tripdhara homestay, travelers directly inject capital into rural economies, supporting families and incentivizing the preservation of traditional architecture and lifestyle.
 
-### 🥾 Trekking & High-Altitude Expeditions
-The Himalayas are the ultimate pilgrimage for trekkers and mountaineers. Tripdhara offers an exhaustive catalog of trails, catering to everyone from the weekend hiker to the seasoned alpinist.
-- **Curated Trails:** From the gentle meadows of Dayara Bugyal and the enchanting forests of the Kedarkantha trek to the formidable challenges of the Roopkund or Goechala trails, our platform covers it all.
-- **Certified Guides:** We partner exclusively with certified, experienced local trek leaders and mountaineering institutes. Safety is our paramount concern, and our operators are equipped to handle high-altitude challenges, ensuring a secure and thrilling adventure.
+### 🏨 2. Hotel (Comfort & Luxury Mountain Stays)
+For travelers who desire standard hotel comforts, boutique aesthetics, or premium luxury amidst nature:
+- **Curated Selection:** From clean, cozy budget rooms for backpackers and families to luxurious 4-star boutique resorts overlooking snow-capped Himalayan ranges.
+- **Top Locations:** Rishikesh, Mussoorie, Dehradun, Nainital, Manali, Shimla, Dharamshala, Kasol, and Leh.
+- **Assured Quality:** Sanitized rooms, hot running water, scenic balconies, in-house mountain dining, and prompt room service.
 
-### 🕉️ Spiritual Journeys & Pilgrimages
-The Himalayas are deeply woven into the spiritual fabric of the subcontinent, home to some of the most revered shrines and temples.
-- **The Chardham Yatra:** We provide meticulously organized packages for the sacred Chardham Yatra (Yamunotri, Gangotri, Kedarnath, and Badrinath). We handle the complex logistics—accommodation, transport, and permits—allowing pilgrims to focus entirely on their spiritual journey.
-- **Offbeat Spiritual Retreats:** Beyond the major circuits, we offer access to serene monasteries in Spiti and Ladakh, and secluded ashrams in the Kumaon region, perfect for meditation, yoga, and inner peace.
+### ⛺ 3. Camping (Riverside & Alpine Nights)
+Disconnect from the digital noise and sleep beneath a canopy of a million stars:
+- **Riverside Camps in Rishikesh:** Luxury Swiss cottage tents with attached washrooms, swimming pools, volleyball courts, and direct access to pristine riverbeds.
+- **High-Altitude Alpine Tents:** All-weather expedition dome tents pitched on lush bugyals (meadows) such as Chopta, Dayara Bugyal, and Spiti Valley.
+- **Evening Experiences:** Warm bonfires, acoustic music, evening barbecues, stargazing, and delicious buffet spreads.
 
-### 🌊 Adventure Sports & Adrenaline
-For those who seek the thrill of the extreme, Tripdhara is the ultimate launchpad.
-- **White Water Rafting:** Navigate the ferocious rapids of the Ganges in Rishikesh, the Teesta in Sikkim, or the Zanskar in Ladakh.
-- **Aero Sports:** Experience the unparalleled freedom of paragliding in Bir Billing, one of the world's premier flying destinations.
-- **Winter Sports:** Carve through the fresh powder of Auli or Gulmarg with our curated skiing and snowboarding packages.
+### 🚣 4. Rafting (White Water Rapids)
+Navigate the roaring waters of the holy Ganges in Rishikesh with certified river marshals:
+- **Available Stretches:**
+  - *Brahmpuri to NIM Beach (9 km)* — Beginner and family-friendly (Grade I & II)
+  - *Shivpuri to NIM Beach (16 km)* — The classic thrill with Roller Coaster, Golf Course & Club House rapids (Grade II & III)
+  - *Marine Drive to NIM Beach (26 km)* — High adrenaline with Cliff Jumping & Body Surfing (Grade III & III+)
+  - *Kaudiyala to NIM Beach (36 km)* — Extreme run featuring the formidable Grade IV rapid "The Wall"
+- **Safety Standard:** CE-approved life jackets, carbon helmets, licensed river guides, and emergency rescue kayaks on every run.
+
+### 🥾 5. Trekking & High-Altitude Expeditions
+The Himalayas are the ultimate pilgrimage for trekkers and mountaineers. Tripdhara offers an exhaustive catalog of trails, catering to everyone from the weekend hiker to the seasoned alpinist:
+- **Curated Trails:** From the gentle meadows of Dayara Bugyal and the enchanting winter snow forests of the Kedarkantha trek to the botanical wonder of the Valley of Flowers and the formidable challenges of Roopkund and Goechala.
+- **Certified Guides:** We partner exclusively with certified, experienced local trek leaders and mountaineering institutes. Safety is our paramount concern, and our operators are equipped with high-altitude first-aid, oxygen cylinders, and emergency response plans.
+
+### 🪂 6. Bungee Jumping & Extreme Adventure
+For those who seek the thrill of the extreme, Tripdhara is your ultimate launchpad:
+- **Bungee Jumping (Mohan Chatti, Rishikesh):** India's highest fixed cantilever platform (83 meters / 273 feet) designed by Jump Masters from New Zealand with international safety standards.
+- **Giant Swing & Flying Fox:** Experience high-speed tandem swinging over the river gorge or zoom across Asia’s longest 1 km Flying Fox at 140 km/h.
+- **Aero & Winter Sports:** Paragliding tandem flights in Bir Billing, alongside curated skiing and snowboarding packages in Auli and Gulmarg.
+
+### 🛵 7. Bike/Scooter Rental (Mountain Mobility)
+Feel the crisp mountain air and conquer winding alpine roads at your own leisure:
+- **Our Fleet:** Royal Enfield Himalayan 411/450, Classic 350, Hunter 350, and automatic scooters (Activa 6G, Jupiter) for local cruising.
+- **Ready to Ride:** Fully serviced vehicles, valid registration & permits, dual ISI helmets, luggage racks, and mobile mounts.
+- **Pickup Hubs:** Rishikesh (Tapovan & Railway Station), Dehradun, Haridwar, and Manali.
+
+### 🕉️ 8. Spiritual Journeys & The Sacred Chaardham Tour
+The Himalayas are deeply woven into the spiritual fabric of the subcontinent, home to some of the most revered shrines and temples:
+- **The Chardham Yatra:** Meticulously organized packages for the sacred Chardham Yatra (Yamunotri, Gangotri, Kedarnath, and Badrinath). We handle the complex logistics—biometric registration, sanitized transport, comfortable stays, and priority darshan permits.
+- **Do Dham & Helicopter Packages:** Express 5-day Do Dham tours (Kedarnath & Badrinath) and VIP same-day helicopter charters for senior citizens and devotees.
+- **Offbeat Spiritual Retreats:** Access to serene monasteries in Spiti and Ladakh, and secluded ashrams in Rishikesh and the Kumaon region for meditation and yoga.
+
+### 🧭 9. Custom Trip (Tailor-Made Itineraries)
+Your vision, our local mountain expertise:
+- **Tailor-Made For:** Couples & Honeymooners, Families, Corporate Offsites, College Reunions, and Solo Explorers.
+- **100% Personalization:** Choose your own departure dates, vehicle preferences (Innova Crysta, Tempo Traveller, 4x4 Mahindra Thar), accommodation tier, and custom mix of leisure and adventure.
+- **Dedicated Planner:** One-on-one planning session with our dedicated Himalayan trip coordinator.
 
 ---
 
@@ -80,10 +127,10 @@ Our platform is engineered to serve two primary stakeholders, creating a symbiot
 
 ### 🎒 For the Traveler: A Seamless Journey
 From the moment a traveler begins dreaming of the mountains to the day they return home, Tripdhara is their trusted companion.
-- **Discovery & Inspiration:** Our intuitive platform allows users to explore destinations not just by name, but by experience, season, and difficulty level.
-- **Transparent Pricing:** No hidden fees, no last-minute surprises. What you see is what you pay.
-- **Secure Transactions:** Utilizing state-of-the-art payment gateways, we ensure that every booking is financially secure.
-- **24/7 Support Network:** The mountains can be unpredictable. Our dedicated support team is always on standby to assist with itinerary changes, weather updates, and emergency situations.
+- **Discovery & Inspiration:** Explore destinations by experience, season, altitude, and difficulty level.
+- **Transparent Pricing:** Direct local rates with no hidden fees, no middleman markups, and no last-minute surprises.
+- **Secure Transactions:** Utilizing state-of-the-art payment gateways and verified booking vouchers.
+- **24/7 On-Ground Support Network:** Mountain weather can be unpredictable. Our dedicated support team is always on standby for on-ground logistics, weather updates, and emergency situations.
 
 ### 🛡️ For the Vendor: Empowerment & Growth
 Tripdhara is more than a sales channel for our local partners; it is a comprehensive business management tool.
@@ -135,10 +182,33 @@ We envision Tripdhara not just as the largest travel platform in the region, but
 
 Whether you are a traveler yearning for the crisp mountain air, a local homestay owner looking to share your culture with the world, or a seasoned trek leader ready to guide the next expedition, there is a place for you in the Tripdhara ecosystem.
 
-**For Travelers:** Start planning your next great adventure. Explore our curated experiences and discover a side of the Himalayas you never knew existed.
-**For Partners:** Join our growing network of verified vendors. Take control of your business and connect with a global community of mindful travelers.
+- **For Travelers:** Start planning your next great adventure. Explore our curated experiences and discover a side of the Himalayas you never knew existed.
+- **For Partners:** Join our growing network of verified vendors. Take control of your business and connect with a global community of mindful travelers.
 
 *The mountains are calling. Let Tripdhara guide your way.*
+
+---
+
+## 📞 Plan Your Journey / Contact Tripdhara
+
+<p align="center">
+  <a href="https://wa.me/918445763073?text=Hello%20Tripdhara!%20I%20would%20like%20to%20plan%20a%20trip." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Tripdhara" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@tripdhara.com">
+    <img src="https://img.shields.io/badge/Email-Inquiries%20%26%20Bookings-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tripdhara" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+918445763073">
+    <img src="https://img.shields.io/badge/Call%20Us-24%2F7%20Helpline-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Call Tripdhara" />
+  </a>
+</p>
+
+- 📍 **Headquarters:** Rishikesh / Dehradun, Uttarakhand, India
+- 🌐 **Website:** [tripdhara.com](https://tripdhara.com) *(Launching Soon)*
+- ✉️ **Inquiries & Bookings:** `contact@tripdhara.com` / `info@tripdhara.com`
+- 💬 **WhatsApp Booking Support:** [+91 8445763073](https://wa.me/918445763073)
 
 ---
 
